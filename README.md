@@ -18,12 +18,12 @@ Welcome to **[Panditadata.com](https://panditadata.com)**! Dive into a world of 
 - **📊 Custom Data Overlays**  
   Each map contains layers of data, from **heatmaps** to **marker clusters**, making it easy to visualize trends and patterns on a global or local scale.
 
-  ![Custom Data Overlays](link_to_custom_data_overlay_image)
+  ![Custom Data Overlays](https://raw.githubusercontent.com/Statninja/panditadata/refs/heads/main/images/Screenshot%202024-10-08%20120947.png)
 
 - **💡 Simple and Intuitive UI**  
   The platform is designed for easy navigation. Just click, zoom, and explore! Ideal for anyone from data enthusiasts to professionals.
 
-  ![Simple UI](link_to_ui_image)
+  ![Simple UI](https://raw.githubusercontent.com/Statninja/panditadata/refs/heads/main/images/Screenshot%202024-10-08%20121006.png)
 
 ---
 
