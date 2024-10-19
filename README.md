@@ -4,7 +4,7 @@
 
 Welcome to **[Panditadata.com](https://panditadata.com)**! Dive into a world of interactive maps powered by **Leaflet** and **Folium**, showcasing geographical insights and customized data visualizations. Whether you're exploring population distribution, environmental changes, or other data points, these maps provide an immersive experience with live data overlays and intuitive controls.
 
-![Panditadata Overview](https://raw.githubusercontent.com/Statninja/panditadata/refs/heads/main/images/Screenshot%202024-10-08%20120624.png)(https://github.com/Statninja/panditadata/blob/main/images/Screenshot%202024-10-08%20120624.png]
+![Panditadata Overview](https://raw.githubusercontent.com/Statninja/panditadata/refs/heads/main/images/Screenshot%202024-10-08%20120624.png)
 
 ---
 
