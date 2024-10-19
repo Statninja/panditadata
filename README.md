@@ -13,7 +13,7 @@ Welcome to **[Panditadata.com](https://panditadata.com)**! Dive into a world of 
 - **🗺️ Interactive Maps**  
   Explore maps that allow zooming, panning, and real-time data interaction. Perfect for geographic exploration and analysis.
   
-  ![Interactive Maps](link_to_interactive_map_image)
+  ![Interactive Maps](https://raw.githubusercontent.com/Statninja/panditadata/refs/heads/main/images/Screenshot%202024-10-08%20120921.png)
 
 - **📊 Custom Data Overlays**  
   Each map contains layers of data, from **heatmaps** to **marker clusters**, making it easy to visualize trends and patterns on a global or local scale.
