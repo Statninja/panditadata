@@ -1,4 +1,3 @@
-# panditadata
 # Panditadata.com 🌍
 
 ## Overview
